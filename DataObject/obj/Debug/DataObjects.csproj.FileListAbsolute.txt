@@ -1,0 +1,16 @@
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\DataObject\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\DataObject\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\DataObject\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\DataObject\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\DataObject\obj\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\DataObject\obj\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.pdb

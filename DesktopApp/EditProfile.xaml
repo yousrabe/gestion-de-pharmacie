@@ -1,0 +1,86 @@
+﻿<Window x:Class="WpfPresentation.EditProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit Your Profile Information" Height="427.16" Width="724.753">
+    <Grid>
+        <Grid HorizontalAlignment="Center" Height="396" Width="721" VerticalAlignment="Center" Background="#FFFBFBFB" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="100"/>
+                <ColumnDefinition  />
+                <ColumnDefinition  Width="100"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Background="#ED5BB346" ></Grid>
+            <Grid Grid.Column="1" >
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30" />
+                        <RowDefinition />
+                        <RowDefinition  />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <Label  Grid.Row="1" Content="Edit your Profile Information" FontSize="20" FontWeight="Bold"  HorizontalContentAlignment="Center" />
+                    <Grid   Grid.Row="2" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="130"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions> 
+                        <Label Grid.Column="0" Content="Email"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="150" FontSize="16"/>
+                        <TextBox x:Name="txtEmail" Grid.Column="1" HorizontalAlignment=" center" Width="250" Height="35"/>
+                        
+                    </Grid>
+                    <Grid   Grid.Row="3" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="130"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="Name"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="150" FontSize="16"/>
+                        <TextBox Grid.Column="1" HorizontalAlignment=" center" Width="250"  Height="35"/>
+                    </Grid>
+                    <Grid   Grid.Row="4" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="130"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+                        <Label   Grid.Column="0" Content="Old Password"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="150" FontSize="16"/>
+                        <TextBox Grid.Column="1" HorizontalAlignment=" center" Width="250"  Height="35"/>
+
+                    </Grid>
+                    <Grid   Grid.Row="5" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="130"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+                        <Label  Grid.Column="0" Content="New Password"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="150" FontSize="16"/>
+                        <TextBox Grid.Column="1" HorizontalAlignment=" center" Width="250"  Height="35"/>
+
+                    </Grid>
+                
+
+                       <Grid   Grid.Row="6" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="130"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="1" Content="Edit" HorizontalAlignment=" center" Width="250"  Height="35" FontSize="24" FontWeight="Bold" Foreground="#ED3B802A"/>
+
+                    </Grid>
+                </Grid>   
+            </Grid>
+            <Grid Grid.Column="2" Background="#ED5BB346" ></Grid>
+
+        </Grid>
+        </Grid>
+</Window>

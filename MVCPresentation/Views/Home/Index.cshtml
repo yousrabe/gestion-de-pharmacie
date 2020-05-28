@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="container body-content" id="bg">
+
+    <div>
+        <marquee id="text" scrollamount=5 direction=right behavior=alternate>Welcome to our pharmacy <span>PharmaRX</span> </marquee>
+
+        @if (!@Request.IsAuthenticated)
+        {
+            <p class="bouton-nav"><a class="bouton-nav" href="~/Account/Login">Login</a></p>
+        }
+
+
+    </div>
+    <footer>
+        <div class="navbar-inverse" style="height: 60px;width:100%;  bottom:0px; position:absolute; left:0px;"></div>
+
+    </footer>
+</div>

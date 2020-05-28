@@ -1,0 +1,500 @@
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\MVCPresentation.dll.config
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\MVCPresentation.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\MVCPresentation.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csc.exe
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csc.exe.config
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csc.rsp
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csi.exe
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csi.exe.config
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csi.rsp
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Console.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\vbc.exe
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\vbc.rsp
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Owin.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Helpers.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Mvc.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Optimization.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Razor.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\WebGrease.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Helpers.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Mvc.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Optimization.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Razor.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\EntityFramework.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csprojAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataAccessLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\LogicLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataAccessLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.Migrations.Initial.resources
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\MVCPresentation.dll.config
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\MVCPresentation.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\MVCPresentation.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csc.exe
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csc.exe.config
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csc.rsp
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csi.exe
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csi.exe.config
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\csi.rsp
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Console.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\vbc.exe
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\vbc.rsp
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataObject.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\LogicLayer.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Owin.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Helpers.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Mvc.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Optimization.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Razor.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\WebGrease.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataAccessLayer.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataObject.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\LogicLayer.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Helpers.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Mvc.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Optimization.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.Razor.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\DataAccessLayer.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\EntityFramework.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csprojAssemblyReference.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.Migrations.Initial.resources
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\MVCPresentation\obj\Debug\MVCPresentation.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\MVCPresentation.dll.config
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\MVCPresentation.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\MVCPresentation.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\csc.exe
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\csc.exe.config
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\csc.rsp
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\csi.exe
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\csi.exe.config
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\csi.rsp
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Console.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\vbc.exe
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\vbc.rsp
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\DataObject.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\EntityFramework.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\LogicLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Owin.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Helpers.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Mvc.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Optimization.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Razor.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.WebPages.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\WebGrease.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\DataAccessLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\DataObject.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\LogicLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Helpers.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Mvc.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Optimization.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.Razor.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.WebPages.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\EntityFramework.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\DataAccessLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\EntityFramework.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.csprojAssemblyReference.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.Migrations.Initial.resources
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\MVCPresentation\obj\Debug\MVCPresentation.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\MVCPresentation.dll.config
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\MVCPresentation.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\MVCPresentation.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\csc.exe
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\csc.exe.config
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\csc.rsp
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\csi.exe
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\csi.exe.config
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\csi.rsp
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Console.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\vbc.exe
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\vbc.rsp
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\DataObject.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\EntityFramework.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\LogicLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Owin.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Helpers.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Mvc.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Optimization.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Razor.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.WebPages.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\WebGrease.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\DataAccessLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\DataObject.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\LogicLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Helpers.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Mvc.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Optimization.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.Razor.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.WebPages.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\EntityFramework.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\DataAccessLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\EntityFramework.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.csprojAssemblyReference.cache
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.Migrations.Initial.resources
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\Users\meria\source\repos\PharmacyProject_web\MVCPresentation\obj\Debug\MVCPresentation.pdb

@@ -1,0 +1,78 @@
+﻿@model MVCPresentation.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "User Details";
+}
+
+<div style="margin-top : 70px; margin-left:70px; ">
+
+    <h2>@ViewBag.Title</h2>
+
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.GivenName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.GivenName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.FamilyName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.FamilyName)
+            </dd>
+
+            <dt>
+                Assigned Roles:
+            </dt>
+
+            <dd>
+                <ul>
+                    @foreach (string r in ViewBag.Roles)
+                    {
+                        <li>
+                            <strong>
+                                @r @Html.ActionLink("Remove Role", "RemoveRole",
+                        new { Id = Model.Id, Role = r })
+                            </strong>
+                        </li>
+                    }
+                </ul>
+            </dd>
+            @using (Html.BeginForm("AddRole", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <dt>
+                    Unassigned Roles:
+                </dt>
+
+                <dd>
+
+                    @Html.DropDownList("Role", new SelectList(ViewBag.NoRoles), new { @class = "select" })
+
+                    <div class="form-group">
+                        @Html.HiddenFor(model => model.Id)
+                        <input type="submit" value="Add Role" />
+                    </div>
+                </dd>
+
+            }
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+    </div>

@@ -1,0 +1,18 @@
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\bin\Debug\DataObject.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\DataObject\obj\Debug\DataObject.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\DataObject\bin\Debug\DataObject.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\DataObject\bin\Debug\DataObject.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\DataObject\obj\Debug\DataObject.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\DataObject\obj\Debug\DataObject.pdb

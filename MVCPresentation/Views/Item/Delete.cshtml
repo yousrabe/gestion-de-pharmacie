@@ -1,0 +1,82 @@
+﻿@model DataObject.Item
+
+@{
+    var imagePath = "/Content/Photos/" + @Model.Picture;
+}
+
+<div style="margin-top : 70px; margin-left:70px; ">
+
+
+    <h3>Are you sure you want to delete this Item?</h3>
+    <div style="float:left ; width:50%;">
+        <hr />
+
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Type)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Type)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Strength)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Strength)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.OnStock)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.OnStock)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <input type="submit" value="Delete" style="width : 100px;" />
+        }
+    </div>
+
+    <div style="float:right; width:50%; max-height:25%;">
+
+        <img src=@imagePath style="max-width:95%;float:left; padding:5%;" />
+
+    </div>
+    <p style="clear: left" ;>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+
+    </div>

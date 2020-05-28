@@ -1,0 +1,62 @@
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2013\Projects\PharmacyProject\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataObject.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataObject.pdb
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Mariem\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataObject.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\bin\Debug\DataObject.pdb
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\meria\OneDrive\Desktop\Documents\Visual Studio 2017\Projects\PharmacyProject\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\bin\Debug\DataObject.dll
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\bin\Debug\DataObject.pdb
+C:\Users\meria\source\repos\PharmacyProject_desktop\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\bin\Debug\DataObject.dll
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\bin\Debug\DataObject.pdb
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\meria\source\repos\PharmacyProject_web\LogicLayer\obj\Debug\LogicLayer.pdb
